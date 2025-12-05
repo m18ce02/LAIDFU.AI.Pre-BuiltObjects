@@ -16,6 +16,7 @@
 - 智筑引擎LAIDFU (AI Builder)
 - 万达宝智能广场 (AI Square)
 - 聊天行动机器人(Chat-to-Action Robot)
+- 供应链管理 (Supply Chain Management)
 
 ## 安装与配置步骤
 1. 从本文件夹根目录下载安装包压缩文件“install_file.zip”。
@@ -33,4 +34,5 @@
 - 在安装前，检查系统环境是否满足 Objects 的依赖要求（如特定的 AI 模型版本、特定的BE要求等）。
 ### 4. 配置冲突预防：
 - 若系统中已存在类似功能的 Objects，安装新 Objects 前，请确认是否会覆盖现有配置。
+
 - 建议在测试环境中先行部署，验证无冲突后再应用于生产环境。
