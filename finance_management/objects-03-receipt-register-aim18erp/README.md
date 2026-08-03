@@ -17,12 +17,13 @@ To use this Object, you must at minimum purchase aiM18 and install the folling m
 - AI Builder (智筑引擎LAIDFU)
 - AI Square (万达宝智能广场)
 - Chat-to-Action Robot (聊天行动机器人)
-- Finance System (财务系统)
+- Supply Chain Management (供应链管理)
+- Financial Management (财务管理)
 
 ## Installation and Configuration
 1. From this folder, download the installation package "install_file.zip".
 2. Extract the zip file to a local folder.
-3. Read and follow the extracted "Objects_install_guide_receipt_register_v1.0.0.pdf" to complete configuration.
+3. Read and follow the extracted "Objects_install_and_configuration_guide_AI-Chat-to-Receipt-Register_data_container_v1.0.0.pdf" to complete configuration.
 4. Import the Object files into aiM18, and verify the feature runs correctly.
 
 ## Precautions
